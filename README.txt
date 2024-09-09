@@ -1,4 +1,4 @@
-Projet de cryptographie réalisé par Quentin Guardia (qguardia66@gmail.com) à l'aide d'enseignants de l'UPVD
+Projet de cryptographie réalisé par Quentin Guardia (quentin.guardia@protonmail.com) à l'aide d'enseignants de l'UPVD
 
 Dans le dossier courant:
 "make" pour compiler
